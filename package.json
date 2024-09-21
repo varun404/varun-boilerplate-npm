@@ -1,5 +1,7 @@
 {
 	"author": "Varun",
+	"description": "Hello to the world of Backend Web Development! Are you hiring? Give job.",
+	"keywords": ["freecodecamp", "Thank you!", "Backend", "NodeJS"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
